@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="rw">
+<head>
+  <meta charset="UTF-8">
+  <title>Amasomo - NiyoAcademy</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <nav>
+    <ul>
+<li><a href="index.html">Ahabanza</a></li>
+ <li><a href="amasomo.html">Amasomo</a></li>
+ <li><a href="#">Tuvugeho</a></li>
+ </ul>
+ </nav>
+
+  <main>
+  <h1>Amasomo Ari Kuri NiyoAcademy</h1>
+
+  <ul class="lessons">
+    <li><a href="#">Ubumenyi rusange (Science)</a></li>
+    <li><a href="#">Imibare (Mathematics)</a></li>
+    <li><a href="#">Ikinyarwanda</a></li>
+    <li><a href="#">Icyongereza</a></li>
+    <li><a href="#">Ubukungu (Economics)</a></li>
+    <li><a href="#">Isomo ry’Iyobokamana</a></li>
+    <li><a href="#">Entrepreneur ship</a></li>
+    <li><a href="#">GSCS(general studies and communication skills)</a></li>
+  </ul>
+
+  <p>Komeza ukurikire isomo ukeneye, vuba tuzashyiraho n’amashusho cyangwa PDF.</p>
+  </main>
+
+</body>
+  </html>
